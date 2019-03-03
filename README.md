@@ -21,3 +21,18 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+
+
+## SOS1819-06
+
+- **Team**
+  - [Jesús Herrera Palacios](https://github.com/JesusHerreraUS)
+  - [Student 2](https://github.com/404)
+  - [Student 3](https://github.com/404)
+- **Project description**: my awesome project
+- **Repository**: [gti-sos/SOS1819-06](https://github.com/gti-sos/SOS1819-06)
+- **URL**: http://sos1819-06.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-00.herokuapp.com/api/v1/uefa-country-rankings/docs](https://sos1819-00.herokuapp.com/api/v1/uefa-country-rankings/docs) (developed by [Jesús Herrera Palacios](https://github.com/JesusHerreraUS))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
