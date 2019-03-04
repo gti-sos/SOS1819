@@ -51,6 +51,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - *URL*: http://sos1819-06.herokuapp.com/
 -  *APIs*:
     - [https://es.uefa.com/memberassociations/uefarankings/club/index.html#/yr/2019](https://es.uefa.com/memberassociations/uefarankings/club/index.html#/yr/2019) (developed by [Javier Ezcurra Garrido](https://github.com/javiezga98))
-    - [https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs](https://sos1819-00.herokuapp.com/api/v1/uefa-country-rankings/docs) (developed by [Jesús Herrera Palacios](https://github.com/JesusHerreraUS))
+    - [https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs](https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs) (developed by [Jesús Herrera Palacios](https://github.com/JesusHerreraUS))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
