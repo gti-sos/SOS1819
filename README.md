@@ -25,6 +25,21 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 <<<<<<< HEAD
 
 =======
+## SOS1819-01
+
+- **Team**
+  - [Juan Jiménez Ballina](https://github.com/30ner)
+  - [Bernabé Ruiz Martinez](https://github.com/berruimar)
+  - [José María Barrero Olmedo](https://github.com/josbarolm)
+- **Project description**: Find the relationship between investment and schooling with GDP growth in contrast to public spending and investment in R & D
+- **Repository**: [gti-sos/SOS1819-01](https://github.com/gti-sos/SOS1819-01)
+- **URL**: http://sos1819-00.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+
+
 ## SOS1819-07
 
 - **Team**
