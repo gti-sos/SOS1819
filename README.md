@@ -54,3 +54,16 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs](https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs) (developed by [Jesús Herrera Palacios](https://github.com/JesusHerreraUS))
     - [https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs](https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs) (developed by [Alfonso Bravo Llanos](https://github.com/alfobralla))
 
+## SOS1819-15
+
+- **Team**
+  - [Juan Luis Gómez Durán](https://github.com/juagomdur1)
+  - [Pablo Fernández Sánchez](https://github.com/pabfersan5)
+  - [Daniel José Ramírez Otero](https://github.com/danramirez)
+- **Project description**: Studying sport activity upon andalusian towns and cities furthermore the relationship between sports centers, schools institutions and sports competitions.
+- **Repository**: [gti-sos/SOS1819-15](https://github.com/gti-sos/SOS1819-15)
+- **URL**: http://sos1819-15.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Juan Luis Gómez Durán](https://github.com/juagomdur1))
+    - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Pablo Fernández Sánchez](https://github.com/pabfersan5))
+    - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Daniel José Ramírez Otero](https://github.com/danramirez))
