@@ -1,3 +1,4 @@
+
 Service Oriented Systems (Sistemas Orientados a Servicios) 2018/2019 at [University of Sevilla](http://www.us.es)
 ===================
 Lecturers:
@@ -21,8 +22,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
-
-<<<<<<< HEAD
 
 =======
 ## SOS1819-01
@@ -70,18 +69,18 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs](https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs) (developed by [Alfonso Bravo Llanos](https://github.com/alfobralla))
     - 
 
-## SOS1819-01
+## SOS1819-09
 
 - **Team**
-  - [Wiemann Gauthier](https://github.com/WGauthier)
+  - [Gauthier Wiemann](https://github.com/WGauthier)
+  - [Emma Bonhomme](https://github.com/ebonhomme01)
   - [](https://github.com/)
-  - [](https://github.com/)
-- **Project description**: Relacion entre el cambio de climate y el creciente de la populacion y economia
+- **Project description**: Analyze of the relation between climate change, the growth of population and the economy
 - **Repository**: [gti-sos/SOS1819-09](https://github.com/gti-sos/SOS1819-09)
 - **URL**: http://sos1819-09.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-09.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Wiemann Gauthier](https://github.com/WGauthier))
-    - [https://sos1819-09.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-09.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Gauthier Wiemann](https://github.com/WGauthier))
+    - [https://sos1819-09.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Emma Bonhomme](https://github.com/ebonhomme01))
     - [https://sos1819-09.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
 ## SOS1819-15
@@ -97,6 +96,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Juan Luis Gómez Durán](https://github.com/juagomdur1))
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Pablo Fernández Sánchez](https://github.com/pabfersan5))
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Daniel José Ramírez Otero](https://github.com/danramirez))
+<<<<<<< HEAD
 
 ## SOS1819-02
 
@@ -111,3 +111,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
     - [https://sos1819-02.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+=======
+>>>>>>> SOS1819/master
+>>>>>>> 1885e67e3936166ebad63422040b63b205e1267e
