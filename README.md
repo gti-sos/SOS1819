@@ -26,12 +26,13 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 
 - **Team**
   - [Manuel Salas Ortiz](https://github.com/manolitor)
-  - [Student 2](https://github.com/404)
-  - [Student 3](https://github.com/404)
-- **Project description**: my awesome project
+  - [Dionisio Gálvez Camacho](https://github.com/diogalcam)
+  - [Zoilo Gómez Gordón](https://github.com/zoilo95)
+- **Project description**: Analyze the relationship between the feature films produced, the subsidies received and the collection of these.
+
 - **Repository**: [gti-sos/SOS1819-08](https://github.com/gti-sos/SOS1819-07)
 - **URL**: http://sos1819-00.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Manuel Salas Ortiz](https://github.com/manolitor))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Zoilo Gómez Gordón](https://github.com/zoilo95))
