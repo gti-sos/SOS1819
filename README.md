@@ -96,6 +96,23 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Juan Luis Gómez Durán](https://github.com/juagomdur1))
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Pablo Fernández Sánchez](https://github.com/pabfersan5))
     - [https://sos1819-15.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Daniel José Ramírez Otero](https://github.com/danramirez))
+    
+    
+   ## SOS1819-14
+
+- **Team**
+  - [Antonio Pérez Solís](https://github.com/antoniops96)
+  - [Álvaro	Chamorro	Pascua](https://github.com/404)
+  - [Antonio	García	Fernández](https://github.com/404)
+- **Project description**: study the relationship of accidents between the different types of roads
+- **Repository**: [gti-sos/SOS1819-14](https://github.com/gti-sos/SOS1819-14)
+- **URL**: http://sos1819-14.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+
+=======
 
 ## SOS1819-02
 
