@@ -101,14 +101,14 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 ## SOS1819-02
 
 - **Team**
-  - [Student 1](https://github.com/404)
+  - [Alejandro Martin Mancheño](https://github.com/alemarman1)
   - [Alberto Pérez Caro](https://github.com/albpercar)
   - [Student 3](https://github.com/404)
 - **Project description**: Análisis de las películas más veces nominadas a los premios Oscars, los máximos goleadores de la historia de la liga española de fútbol y los ingresos de las grandes empresas en el mundo
 - **Repository**: [gti-sos/SOS1819-00](https://github.com/gti-sos/SOS1819-02)
 - **URL**: http://sos1819-02.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
+    - [https://sos1819-02.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_m%C3%A1s_premios_%C3%93scar) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
     - [https://sos1819-02.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
 =======
