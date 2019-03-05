@@ -119,7 +119,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Francisco José Alonso Parejo](https://github.com/franalonso13)
   - [Francisco Pardillo Castillo](https://github.com/FranProyect)
   - [José Carlos García Pavón](https://github.com/josgarpav)
-- **Project description**: Analyze of the relation between biofuels consumed, co2 emission and construction of electric cars
+- **Project description**: Analyze of the relation between biofuels consumed, CO2 emission and construction of electric cars
 - **Repository**: [gti-sos/SOS1819-10](https://github.com/gti-sos/SOS1819-10)
 - **URL**: http://sos1819-10.herokuapp.com/
 -  **APIs**:
@@ -129,7 +129,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 
 
 
-
+==============
 
 
 ## SOS1819-15
