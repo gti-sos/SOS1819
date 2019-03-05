@@ -201,8 +201,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom)
   - [Joaquín Morillo Capitán](https://github.com/joamorcap)
   - [Juan Manuel Centeno Caballero](https://github.com/centca)
-- **Project description**: Our information sources are made for the purpose of analising the actual relationship existant between public expenditures of different fields from different countries. After that, a comparaison of theese expenditures could be done globally. 
-- **Repository**: [gti-sos/SOS1819-14](https://github.com/gti-sos/SOS1819-11)
+- **Project description**: Our information sources are made for the purpose of analising the actual relationship existant between public expenditures of different fields from different countries. After that, a comparaison of these expenditures could be done globally. 
+- **Repository**: [gti-sos/SOS1819-11](https://github.com/gti-sos/SOS1819-11)
 - **URL**: http://sos1819-11.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-11.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/estado/gasto) (developed by [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom))
