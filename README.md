@@ -38,7 +38,22 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Bernabé Ruiz Martínez](https://github.com/berruimar))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [José María Barrero Olmedo](https://github.com/josbarolm))
 
+=======
+## SOS1819-03
 
+- **Team**
+  - [José Antonio Mora Pérez](https://github.com/sos1819jmp)
+  - [Jesus Dominguez Tristancho](https://github.com/jesdomtri)
+  - [Joaquin Puerto Martinez](https://github.com/joaquinpuertomartinez)
+- **Project description**: The relationship between countries and computer attacks, tecnology companies and PIB.
+- **Repository**: [gti-sos/SOS1819-03](https://github.com/gti-sos/SOS1819-03)
+- **URL**: http://sos1819-03.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [José Antonio Mora Pérez](https://github.com/sos1819jmp))
+    - [https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Jesus Dominguez Tristancho](https://github.com/jesdomtri))
+    - [https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Joaquin Puerto Martinez](https://github.com/joaquinpuertomartinez))
+
+=======
 ## SOS1819-07
 
 - **Team**
