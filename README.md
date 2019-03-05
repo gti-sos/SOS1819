@@ -54,6 +54,21 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-03.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Joaquin Puerto Martinez](https://github.com/joaquinpuertomartinez))
 
 =======
+## SOS1819-04
+
+- **Team**
+  - [Adrián Fernández González](https://github.com/adrfergonsos)
+  - [Ana Marín Medina](https://github.com/404)
+  - [Juan Pedro Carmona Castaño](https://github.com/404)
+- **Project description**: Relationship between happiness, Chocolate consumption and suicide rates. Is really chocolate a factor to be considered in happiness? Has one lower rate of suidicios a population with a higher happiness index?
+- **Repository**: [gti-sos/SOS1819-04](https://github.com/gti-sos/SOS1819-04)
+- **URL**: http://sos1819-04.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Adrián Fernández González](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Ana Marín Medina](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/404))
+
+=======
 ## SOS1819-07
 
 - **Team**
