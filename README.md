@@ -117,15 +117,15 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 
 - **Team**
   - [Antonio Pérez Solís](https://github.com/antoniops96)
-  - [Álvaro	Chamorro	Pascua](https://github.com/404)
-  - [Antonio	García	Fernández](https://github.com/404)
+  - [Álvaro	Chamorro Pascua](https://github.com/alvarocp16)
+  - [Antonio García Fernández](https://github.com/antgarfer12)
 - **Project description**: study the relationship of accidents between the different types of roads
 - **Repository**: [gti-sos/SOS1819-14](https://github.com/gti-sos/SOS1819-14)
 - **URL**: http://sos1819-14.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Antonio Pérez Solís](https://github.com/antoniops96))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Álvaro	Chamorro Pascua](https://github.com/alvarocp16))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Antonio García Fernández](https://github.com/antgarfer12))
 
 =======
 
