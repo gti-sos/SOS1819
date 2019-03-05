@@ -179,17 +179,18 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-11.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/estado/gasto/salud) (developed by [Joaquín Morillo Capitán](https://github.com/joamorcap))
     - [https://sos1819-11.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/estado/gasto/educacion	) (developed by [Juan Manuel Centeno Caballero](https://github.com/centca))
 
+========
 
 ## SOS1819-12
 
 - **Team**
   - [Antonio Escobar Núñez](https://github.com/Escobar1993)
-  - [Student 2](https://github.com/404)
+  - [Alberto Jiménez Marín](https://github.com/albjimmar1)
   - [Student 3](https://github.com/404)
 - **Project description**: Nuestras fuentes de información están orientadas a analizar la relación que existe entre el nivel de dióxido de  carbono, la esperanza de vida y el salario medio. 
 - **Repository**: [gti-sos/SOS1819-12](https://github.com/gti-sos/SOS1819-12)
 - **URL**: http://sos1819-12.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2) (developed by [Antonio Escobar Núñez](https://github.com/Escobar1993))
-    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/demografia/esperanza-vida?anio=2015) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/demografia/esperanza-vida?anio=2015) (developed by [Student 2](https://github.com/albjimmar1))
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/mercado-laboral/salario-medio) (developed by [Student 3](https://github.com/404))
