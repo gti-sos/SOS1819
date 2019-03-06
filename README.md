@@ -58,8 +58,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 
 - **Team**
   - [Adrián Fernández González](https://github.com/adrfergonsos)
-  - [Ana Marín Medina](https://github.com/404)
-  - [Juan Pedro Carmona Castaño](https://github.com/404)
+  - [Ana Marín Medina](https://github.com/amarinme)
+  - [Juan Pedro Carmona Castaño](https://github.com/juanpedroC)
 - **Project description**: Relationship between happiness, Chocolate consumption and suicide rates. Is really chocolate a factor to be considered in happiness? Has one lower rate of suidicios a population with a higher happiness index?
 - **Repository**: [gti-sos/SOS1819-04](https://github.com/gti-sos/SOS1819-04)
 - **URL**: http://sos1819-04.herokuapp.com/
