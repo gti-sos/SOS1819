@@ -230,9 +230,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 ## SOS1819-08
 
 - **Team**
-  - [Student 1](https://github.com/crijimnun)
-  - [Student 2](https://github.com/lolilolii)
-  - [Student 3](https://github.com/felgonmar)
+  - [Cristian Jiménez Núñez](https://github.com/crijimnun)
+  - [Maria Dolores López Sánchez](https://github.com/lolilolii)
+  - [Felix Gonzalez Marín](https://github.com/felgonmar)
 - **Project description**: The relationship between number of tourists, tourist income and tourist expenses per country.
 - **Repository**: [gti-sos/SOS1819-00](https://github.com/gti-sos/SOS1819-08)
 - **URL**: http://sos1819-08.herokuapp.com/
