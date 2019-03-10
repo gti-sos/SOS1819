@@ -185,7 +185,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Alberto Pérez Caro](https://github.com/albpercar)
   - [Pablo Garcia Martin](https://github.com/pabgarmar)
 - **Project description**: Análisis de las películas más veces nominadas a los premios Oscars, los máximos goleadores de la historia de la liga española de fútbol y los ingresos de las grandes empresas en el mundo
-- **Repository**: [gti-sos/SOS1819-00](https://github.com/gti-sos/SOS1819-02)
+- **Repository**: [gti-sos/SOS1819-02](https://github.com/gti-sos/SOS1819-02)
 - **URL**: http://sos1819-02.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-02.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_m%C3%A1s_premios_%C3%93scar) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
