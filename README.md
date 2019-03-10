@@ -58,15 +58,15 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 
 - **Team**
   - [Adrián Fernández González](https://github.com/adrfergonsos)
-  - [Ana Marín Medina](https://github.com/404)
-  - [Juan Pedro Carmona Castaño](https://github.com/404)
-- **Project description**: Relationship between happiness, beer consumption and suicide rates. Is really beer a factor to be considered in happiness? Has one lower rate of suidicios a population with a higher happiness index?
+  - [Ana Marín Medina](https://github.com/amarinme)
+  - [Juan Pedro Carmona Castaño](https://github.com/juanpedroC)
+- **Project description**: Relationship between happiness, Chocolate consumption and suicide rates. Is really chocolate a factor to be considered in happiness? Has one lower rate of suidicios a population with a higher happiness index?
 - **Repository**: [gti-sos/SOS1819-04](https://github.com/gti-sos/SOS1819-04)
 - **URL**: http://sos1819-04.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Adrián Fernández González](https://github.com/404))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Ana Marín Medina](https://github.com/404))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-1/docs) (developed by [Adrián Fernández González](https://github.com/adrfergonsos))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Ana Marín Medina](https://github.com/amarinme))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/juanpedroC))
 
 =======
 ## SOS1819-07
@@ -89,14 +89,14 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Team**
   - [Álvaro Ortega Medina](https://github.com/alvortmed)
   - [Marta Verdugo Martínez](https://github.com/martaverdugo6)
-  - [Student 3](https://github.com/404)
+  - [Enrque Garcia Velasco ](https://github.com/404)
 - **Project description**: Analysis of the relationship between the 3 best leagues in the world: League Santander, the Premier League and Serie A
 - **Repository**: [gti-sos/SOS1819-05](https://github.com/gti-sos/SOS1819-05)
 - **URL**: http://sos1819-05.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-05.herokuapp.com/api/v1/league-santander/docs](https://sos1819-05.herokuapp.com/api/v1/league-santander/docs) (developed by [Álvaro Ortega Medina](https://github.com/alvortmed))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [[Marta Verdugo Martínez](https://github.com/martaverdugo6))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Enrique Garcia Velasco](https://github.com/404))
 
 
 ## SOS1819-06
@@ -201,8 +201,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom)
   - [Joaquín Morillo Capitán](https://github.com/joamorcap)
   - [Juan Manuel Centeno Caballero](https://github.com/centca)
-- **Project description**: Our information sources are made for the purpose of analising the actual relationship existant between public expenditures of different fields from different countries. After that, a comparaison of theese expenditures could be done globally. 
-- **Repository**: [gti-sos/SOS1819-14](https://github.com/gti-sos/SOS1819-11)
+- **Project description**: Our information sources are made for the purpose of analising the actual relationship existant between public expenditures of different fields from different countries. After that, a comparaison of these expenditures could be done globally. 
+- **Repository**: [gti-sos/SOS1819-11](https://github.com/gti-sos/SOS1819-11)
 - **URL**: http://sos1819-11.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-11.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/estado/gasto) (developed by [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom))
@@ -224,3 +224,21 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2) (developed by [Antonio Escobar Núñez](https://github.com/Escobar1993))
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/demografia/esperanza-vida?anio=2015) (developed by [Alberto Jiménez Marín](https://github.com/albjimmar1))
     - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/mercado-laboral/salario-medio) (developed by [Student 3](https://github.com/404))
+
+========
+
+## SOS1819-08
+
+- **Team**
+  - [Cristian Jiménez Núñez](https://github.com/crijimnun)
+  - [Maria Dolores López Sánchez](https://github.com/lolilolii)
+  - [Felix Gonzalez Marín](https://github.com/felgonmar)
+- **Project description**: The relationship between number of tourists, tourist income and tourist expenses per country.
+- **Repository**: [gti-sos/SOS1819-00](https://github.com/gti-sos/SOS1819-08)
+- **URL**: http://sos1819-08.herokuapp.com/
+-  **APIs**:
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 1](https://github.com/404))
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 2](https://github.com/404))
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 3](https://github.com/404))
+
+    - 
