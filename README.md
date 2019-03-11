@@ -46,6 +46,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - *Repository*: [gti-sos/SOS1819-06](https://github.com/gti-sos/SOS1819-06)
 - *URL*: http://sos1819-06.herokuapp.com/
 -  *APIs*:
-    - [https://es.uefa.com/memberassociations/uefarankings/club/index.html#/yr/2019](https://es.uefa.com/memberassociations/uefarankings/club/index.html#/yr/2019) (developed by [Javier Ezcurra Garrido](https://github.com/javiezga98))
+    - [https://sos1819-06.herokuapp.com/api/v1/uefa-club-rankings/docs](https://sos1819-06.herokuapp.com/api/v1/uefa-club-rankings/docs) (developed by [Javier Ezcurra Garrido](https://github.com/javiezga98))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
