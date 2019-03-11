@@ -121,7 +121,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Manuel Salas Ortiz](https://github.com/manolitor)
   - [Dionisio Gálvez Camacho](https://github.com/diogalcam)
   - [Zoilo Gómez Gordón](https://github.com/zoilo95)
-- **Project description**: Analyze the relationship between the feature films produced, the subsidies received and the collection of these.
+- **Project description**: Analyze the relationship between the subsidies received and the national collection and international collection of some spanish films.
 - **Repository**: [gti-sos/SOS1819-07](https://github.com/gti-sos/SOS1819-07)
 - **URL**: https://sos1819-07.herokuapp.com/
 -  **APIs**:
