@@ -135,13 +135,13 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Cristian Jiménez Núñez](https://github.com/crijimnun)
   - [Maria Dolores López Sánchez](https://github.com/lolilolii)
   - [Felix Gonzalez Marín](https://github.com/felgonmar)
-- **Project description**: The relationship between number of tourists, tourist income and tourist expenses per country.
+- **Project description**: Analyze the relationship between tourism, emigration and spending on education / culture.
 - **Repository**: [gti-sos/SOS1819-00](https://github.com/gti-sos/SOS1819-08)
 - **URL**: http://sos1819-08.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 1](https://github.com/404))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 2](https://github.com/404))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Student 3](https://github.com/404))
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Cristian Jiménez Núñez](https://github.com/crijimnun))
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Maria Dolores López Sánchez](https://github.com/lolilolii))
+    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Felix Gonzalez Marín](https://github.com/felgonmar))
 
 
 ## SOS1819-09
