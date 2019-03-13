@@ -105,13 +105,13 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
   - [Javier Ezcurra Garrido](https://github.com/javiezga98)
   - [Jesús Herrera Palacios](https://github.com/JesusHerreraUS)
   - [Alfonso Bravo Llanos](https://github.com/alfobralla)
-- **Project description**: Link-up between the data of each european football league, its uefa ranking, and the best ranked clubs
+- **Project description**: Link-up between the data of each european football league, its uefa ranking, and the transfer stats in last years
 - **Repository**: [gti-sos/SOS1819-06](https://github.com/gti-sos/SOS1819-06)
 - **URL**: http://sos1819-06.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-06.herokuapp.com/api/v1/uefa-club-rankings/docs](https://sos1819-06.herokuapp.com/api/v1/uefa-club-rankings/docs) (developed by [Javier Ezcurra Garrido](https://github.com/javiezga98))
     - [https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs](https://sos1819-06.herokuapp.com/api/v1/uefa-country-rankings/docs) (developed by [Jesús Herrera Palacios](https://github.com/JesusHerreraUS))
-    - [https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs](https://sos1819-06.herokuapp.com/api/v1/european-football-leagues/docs) (developed by [Alfonso Bravo Llanos](https://github.com/alfobralla))
+    - [https://sos1819-06.herokuapp.com/api/v1/transfers-stats/docs](https://sos1819-06.herokuapp.com/api/v1/transfers-stats-leagues/docs) (developed by [Alfonso Bravo Llanos](https://github.com/alfobralla))
 
 
 ## SOS1819-07
