@@ -207,10 +207,10 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 ##  SOS1819-13
 
 - **Team**
-  - [Student 1](https://github.com/404)
-  - [Student 2](https://github.com/404)
-  - [Student 3](https://github.com/404)
-- **Project description**:  my awesome project
+  - [Diego Ruiz Perez](https://github.com/dieruiper)
+  - [Manuel Ivan Galvez Perez](https://github.com/mangalper1)
+  - [Juan Manuel Arteaga Delgado](https://github.com/juanma71)
+- **Project description**:  Our information sources are made for the purpose of analising the actual relationship existant between the increase on price of gas,  decrease in car sales and employment by provinces in Spain
 - **Repository**: [gti-sos/SOS1819-13](https://github.com/gti-sos/SOS1819-13)
 - **URL**: http://sos1819-13.herokuapp.com/
 -  **APIs**:
