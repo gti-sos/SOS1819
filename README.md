@@ -96,8 +96,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **URL**: http://sos1819-05.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-05.herokuapp.com/api/v1/athletes-performance-sport/docs](https://documenter.getpostman.com/view/3889720/S17oyqMD) (developed by [Álvaro Ortega Medina](https://github.com/alvortmed))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-2/docs) (developed by [Marta Verdugo Martínez](https://github.com/martaverdugo6))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awsone-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1819-05.herokuapp.com/api/v1/students-andalucia/docs](https://documenter.getpostman.com/view/6870023/S17qS957) (developed by [Marta Verdugo Martínez](https://github.com/martaverdugo6))
+    - [https://sos1819-05.herokuapp.com/api/v1/libraries-stat/docs](https://documenter.getpostman.com/view/6920009/S17ozAkn) (developed by [Student 3](https://github.com/404))
 
 ## SOS1819-06
 
