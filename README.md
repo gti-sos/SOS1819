@@ -80,7 +80,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-04](https://github.com/gti-sos/SOS1819-04)
 - **URL**: http://sos1819-04.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Adrián Fernández González](https://github.com/adrfergonsos))
+    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/suicide-rates/docs) (developed by [Adrián Fernández González](https://github.com/adrfergonsos))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Ana Marín Medina](https://github.com/amarinme))
     - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/juanpedroC))
 
