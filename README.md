@@ -124,9 +124,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-07](https://github.com/gti-sos/SOS1819-07)
 - **URL**: https://sos1819-07.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Manuel Salas Ortiz](https://github.com/manolitor))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Zoilo Gómez Gordón](https://github.com/zoilo95))
+    - [https://sos1819-07.herokuapp.com/api/v1/subsidiesStats](https://sos1819-07.herokuapp.com/api/v1/subsidiesStats) (developed by [Manuel Salas Ortiz](https://github.com/manolitor))
+    - [https://sos1819-07.herokuapp.com/api/v1/takingStatss](https://sos1819-07.herokuapp.com/api/v1/takingStats) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
+    - [https://sos1819-07.herokuapp.com/api/v1/earningsInterStats](https://sos1819-07.herokuapp.com/api/v1/earningsInterStats) (developed by [Zoilo Gómez Gordón](https://github.com/zoilo95))
 
 
 ## SOS1819-08
