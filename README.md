@@ -125,7 +125,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **URL**: https://sos1819-07.herokuapp.com/
 -  **APIs**:
     - [https://sos1819-07.herokuapp.com/api/v1/subsidiesStats](https://sos1819-07.herokuapp.com/api/v1/subsidiesStats) (developed by [Manuel Salas Ortiz](https://github.com/manolitor))
-    - [https://sos1819-07.herokuapp.com/api/v1/takingStatss](https://sos1819-07.herokuapp.com/api/v1/takingStats) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
+    - [https://sos1819-07.herokuapp.com/api/v1/takingstats](https://sos1819-07.herokuapp.com/api/v1/takingStats) (developed by [Dionisio Gálvez Camacho](https://github.com/diogalcam))
     - [https://sos1819-07.herokuapp.com/api/v1/earningsInterStats](https://sos1819-07.herokuapp.com/api/v1/earningsInterStats) (developed by [Zoilo Gómez Gordón](https://github.com/zoilo95))
 
 
