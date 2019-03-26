@@ -184,9 +184,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-11](https://github.com/gti-sos/SOS1819-11)
 - **URL**: http://sos1819-11.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://datosmacro.expansion.com/estado/gasto) (developed by [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom))
-    - [https://sos1819-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://datosmacro.expansion.com/estado/gasto/salud) (developed by [Joaquín Morillo Capitán](https://github.com/joamorcap))
-    - [https://sos1819-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://datosmacro.expansion.com/estado/gasto/educacion	) (developed by [Juan Manuel Centeno Caballero](https://github.com/centca))
+    - [https://sos1819-11.herokuapp.com/api/v1/general-public-expenses/docs](https://sos1819-11.herokuapp.com/api/v1/general-public-expenses/docs) (developed by [Antonio Jesús Santiago Muñoz](https://github.com/ajsantiagom))
+    - [https://sos1819-11.herokuapp.com/api/v1/public-health-expenses/docs](https://sos1819-11.herokuapp.com/api/v1/public-health-expenses/docs) (developed by [Joaquín Morillo Capitán](https://github.com/joamorcap))
+    - [https://sos1819-11.herokuapp.com/api/v1/public-expenditure-educations/docs](https://sos1819-11.herokuapp.com/api/v1/public-expenditure-educations/docs) (developed by [Juan Manuel Centeno Caballero](https://github.com/centca))
 
 
 ## SOS1819-12
