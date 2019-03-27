@@ -191,6 +191,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-12](https://github.com/gti-sos/SOS1819-12)
 - **URL**: http://sos1819-12.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-1/docs](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2) (developed by [Antonio Escobar Núñez](https://github.com/Escobar1993))
-    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-2/docs](https://datosmacro.expansion.com/demografia/esperanza-vida?anio=2015) (developed by [Alberto Jiménez Marín](https://github.com/albjimmar1))
-    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/mercado-laboral/salario-medio) (developed by [Student 3](https://github.com/404))
+    - [https://sos1819-12.herokuapp.com/api/v1/pollutionStats/docs](https://sos1819-12.herokuapp.com/api/v1/pollutionStats/docs) (developed by [Antonio Escobar Núñez](https://github.com/Escobar1993))
+    - [https://sos1819-12.herokuapp.com/api/v1/life_expectancy_stats/docs](https://sos1819-12.herokuapp.com/api/v1/life_expectancy_stats/docs) (developed by [Alberto Jiménez Marín](https://github.com/albjimmar1))
+    - [https://sos1819-12.herokuapp.com/api/v1/my-awsone-resource-3/docs](https://datosmacro.expansion.com/mercado-laboral/salario-medio) (developed by [Student 3](https://github.com/404))GIT
