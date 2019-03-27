@@ -50,9 +50,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-02](https://github.com/gti-sos/SOS1819-02)
 - **URL**: http://sos1819-02.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-02.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_m%C3%A1s_premios_%C3%93scar) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
-    - [https://sos1819-02.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://es.wikipedia.org/wiki/Anexo:Empresas_por_ingresos) (developed by [Pablo Garcia Martin](https://github.com/pabgarmar))
+    - [https://sos1819-02.herokuapp.com/api/v1/movies-stats/docs](https://documenter.getpostman.com/view/7067709/S17usmjv) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
+    - [https://sos1819-02.herokuapp.com/api/v1/scorers-stats/docs](https://documenter.getpostman.com/view/6869425/S17usmtj) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
+    - [https://sos1819-02.herokuapp.com/api/v1/companies-stats/docs](https://documenter.getpostman.com/view/6990295/S17oyqep) (developed by [Pablo Garcia Martin](https://github.com/pabgarmar))
 
 
 ## SOS1819-03
