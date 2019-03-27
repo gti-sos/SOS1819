@@ -229,9 +229,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-14](https://github.com/gti-sos/SOS1819-14)
 - **URL**: http://sos1819-14.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Pérez Solís](https://github.com/antoniops96))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Álvaro Chamorro Pascua](https://github.com/alvarocp16))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Antonio García Fernández](https://github.com/antgarfer12))
+    - [https://sos1819-14.herokuapp.com/api/v1/deceaseds/docs](https://sos1819-14.herokuapp.com/api/v1/deceaseds/docs) (developed by [Antonio Pérez Solís](https://github.com/antoniops96))
+    - [https://sos1819-14.herokuapp.com/api/v1/elements/docs](https://sos1819-14.herokuapp.com/api/v1/elements/docs) (developed by [Álvaro Chamorro Pascua](https://github.com/alvarocp16))
+    - [https://sos1819-14.herokuapp.com/api/v1/injured-hospitalized/docs](https://sos1819-14.herokuapp.com/api/v1/injured-hospitalized/docs) (developed by [Antonio García Fernández](https://github.com/antgarfer12))
 
 
 ## SOS1819-15
