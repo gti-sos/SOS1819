@@ -169,9 +169,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-10](https://github.com/gti-sos/SOS1819-10)
 - **URL**: http://sos1819-10.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-10.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Francisco José Alonso Parejo](https://github.com/franalonso13))
+    - [https://sos1819-10.herokuapp.com/api/v1/e-car-statics/docs](https://sos1819-00.herokuapp.com/api/v1/e-car-statics/docs) (developed by [José Carlos García Pavón](https://github.com/josgarpav))
     - [https://sos1819-10.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Francisco Pardillo Castillo](https://github.com/FranProyect))
-    - [https://sos1819-10.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [José Carlos García Pavón](https://github.com/josgarpav))
+    - [https://sos1819-10.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [](https://github.com/josgarpav))
 
 
 ## SOS1819-11
