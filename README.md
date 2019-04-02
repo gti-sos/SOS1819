@@ -139,9 +139,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-08](https://github.com/gti-sos/SOS1819-08)
 - **URL**: http://sos1819-08.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Cristian Jiménez Núñez](https://github.com/crijimnun))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Maria Dolores López Sánchez](https://github.com/lolilolii))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Felix Gonzalez Marín](https://github.com/felgonmar))
+    - [https://sos1819-08.herokuapp.com/api/v1/emigrations-by-countries/docs](https://documenter.getpostman.com/view/6913613/S17xt6g2) (developed by [Cristian Jiménez Núñez](https://github.com/crijimnun))
+    - [https://sos1819-08.herokuapp.com/api/v1/tourists-by-countries/docs](https://documenter.getpostman.com/view/6926249/S17xt6bi) (developed by [Maria Dolores López Sánchez](https://github.com/lolilolii))
+    - [https://sos1819-08.herokuapp.com/api/v1/expenses-of-countries-in-education-and-culture/docs](https://documenter.getpostman.com/view/6911989/S17xt6bh) (developed by [Felix Gonzalez Marín](https://github.com/felgonmar))
 
 
 ## SOS1819-09
