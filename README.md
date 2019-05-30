@@ -154,7 +154,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-09](https://github.com/gti-sos/SOS1819-09)
 - **URL**: http://sos1819-09.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-09.herokuapp.com/api/v1/climate-stats/docs/](https://sos1819-09.herokuapp.com/api/v1/climate-stats/docs/) (developed by [Gauthier Wiemann](https://github.com/WGauthier))
+    - [https://sos1819-09.herokuapp.com/api/v2/climate-stats/docs/](https://sos1819-09.herokuapp.com/api/v2/climate-stats/docs/) (developed by [Gauthier Wiemann](https://github.com/WGauthier))
     - [https://sos1819-09.herokuapp.com/api/v1/populationstats/docs](https://sos1819-09.herokuapp.com/api/v1/populationstats//docs) (developed by [Emma Bonhomme](https://github.com/ebonhomme01))
     - [https://sos1819-09.herokuapp.com/api/v1/economy-stats/docs](https://sos1819-09.herokuapp.com/api/v1/economy-stats/docs) (developed by [Giuseppe Pimpinella](https://github.com/giuseppepimpinella94))
 
