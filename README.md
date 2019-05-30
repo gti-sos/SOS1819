@@ -50,9 +50,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-02](https://github.com/gti-sos/SOS1819-02)
 - **URL**: http://sos1819-02.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-02.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_m%C3%A1s_premios_%C3%93scar) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
-    - [https://sos1819-02.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://es.wikipedia.org/wiki/Anexo:Empresas_por_ingresos) (developed by [Pablo Garcia Martin](https://github.com/pabgarmar))
+    - [https://sos1819-02.herokuapp.com/api/v1/movies-stats/docs](https://documenter.getpostman.com/view/7067709/S17xsmGb) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
+    - [https://sos1819-02.herokuapp.com/api/v1/scorers-stats/docs](https://documenter.getpostman.com/view/6869425/S17usmtj) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
+    - [https://sos1819-02.herokuapp.com/api/v1/companies-stats/docs](https://documenter.getpostman.com/view/6990295/S17oyqep) (developed by [Pablo Garcia Martin](https://github.com/pabgarmar))
 
 
 ## SOS1819-03
@@ -80,9 +80,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-04](https://github.com/gti-sos/SOS1819-04)
 - **URL**: http://sos1819-04.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1819-00.herokuapp.com/api/v1/suicide-rates/docs) (developed by [Adrián Fernández González](https://github.com/adrfergonsos))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Ana Marín Medina](https://github.com/amarinme))
-    - [https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1819-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/juanpedroC))
+    - [https://sos1819-04.herokuapp.com/api/v1/suicide-rates/docs](https://sos1819-04.herokuapp.com/api/v1/suicide-rates/docs) (developed by [Adrián Fernández González](https://github.com/adrfergonsos))
+    - [https://sos1819-04.herokuapp.com/api/v1/happiness-stats/docs](https://sos1819-04.herokuapp.com/api/v1/happiness-stats/docs) (developed by [Ana Marín Medina](https://github.com/amarinme))
+    - [https://sos1819-04.herokuapp.com/api/v1/beer-consumed-stats/docs](https://sos1819-04.herokuapp.com/api/v1/beer-consumed-stats/docs) (developed by [Juan Pedro Carmona Castaño](https://github.com/juanpedroC))
 
 
 ## SOS1819-05
@@ -139,9 +139,9 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-08](https://github.com/gti-sos/SOS1819-08)
 - **URL**: http://sos1819-08.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Cristian Jiménez Núñez](https://github.com/crijimnun))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Maria Dolores López Sánchez](https://github.com/lolilolii))
-    - [https://sos1819-08.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://www.e-unwto.org/doi/pdf/10.18111/9789284419890) (developed by [Felix Gonzalez Marín](https://github.com/felgonmar))
+    - [https://sos1819-08.herokuapp.com/api/v1/emigrations-by-countries/docs](https://documenter.getpostman.com/view/6913613/S17xt6g2) (developed by [Cristian Jiménez Núñez](https://github.com/crijimnun))
+    - [https://sos1819-08.herokuapp.com/api/v1/tourists-by-countries/docs](https://documenter.getpostman.com/view/6926249/S17xt6bi) (developed by [Maria Dolores López Sánchez](https://github.com/lolilolii))
+    - [https://sos1819-08.herokuapp.com/api/v1/expenses-of-countries-in-education-and-culture/docs](https://documenter.getpostman.com/view/6911989/S17xt6bh) (developed by [Felix Gonzalez Marín](https://github.com/felgonmar))
 
 
 ## SOS1819-09
@@ -244,6 +244,6 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
 - **Repository**: [gti-sos/SOS1819-15](https://github.com/gti-sos/SOS1819-15)
 - **URL**: http://sos1819-15.herokuapp.com/
 -  **APIs**:
-    - [https://sos1819-15.herokuapp.com/api/v1/sport-centers/docs](https://sos1819-15.herokuapp.com/api/v1/sport-centers/docs) (developed by [Juan Luis Gómez Durán](https://github.com/juagomdur1))
+    - [https://sos1819-15.herokuapp.com/api/v1/sports-centers/docs](https://sos1819-15.herokuapp.com/api/v1/sports-centers/docs) (developed by [Juan Luis Gómez Durán](https://github.com/juagomdur1))
     - [https://sos1819-15.herokuapp.com/api/v1/sports-competitions/docs](https://sos1819-15.herokuapp.com/api/v1/sports-competitions/docs) (developed by [Pablo Fernández Sánchez](https://github.com/pabfersan5))
     - [https://sos1819-15.herokuapp.com/api/v1/educations-centers/docs](https://sos1819-15.herokuapp.com/api/v1/educations-centers/docs) (developed by [Daniel José Ramírez Otero](https://github.com/danramirez))
