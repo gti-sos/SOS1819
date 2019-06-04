@@ -53,7 +53,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-02.herokuapp.com/api/v1/movies-stats/docs](https://documenter.getpostman.com/view/7067709/S17xsmGb) (developed by [Alejandro Martin Mancheño](https://github.com/alemarman1))
     - [https://sos1819-02.herokuapp.com/api/v1/scorers-stats/docs](https://documenter.getpostman.com/view/6869425/S17usmtj) (developed by [Alberto Pérez Caro](https://github.com/albpercar))
     - [https://sos1819-02.herokuapp.com/api/v1/companies-stats/docs](https://documenter.getpostman.com/view/6990295/S17oyqep) (developed by [Pablo Garcia Martin](https://github.com/pabgarmar))
-
+-  **Docker**:
+    - docker run -p 8080:8080 -d alemarman1/sos1819-02
 
 ## SOS1819-03
 
