@@ -175,7 +175,7 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-10.herokuapp.com/api/v1/e-car-statics/docs](https://sos1819-10.herokuapp.com/api/v1/e-car-statics/docs) (developed by [José Carlos García Pavón](https://github.com/josgarpav))
     - [https://sos1819-10.herokuapp.com/api/v1/issue-dioxid/docs](https://sos1819-10.herokuapp.com/api/v1/issue-dioxid/docs) (developed by [Francisco Pardillo Castillo](https://github.com/FranProyect))
     - [https://sos1819-10.herokuapp.com/api/v2/biofuels-production/docs](https://sos1819-10.herokuapp.com/api/v2/biofuels-production/docs) (developed by [Francisco José Alonso Parejo](https://github.com/franalonso13))
-
+- **DOCKER**: docker run -p 8080:8080 -d franalonso13/sos1819-10
 
 ## SOS1819-11
 
