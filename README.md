@@ -232,6 +232,8 @@ List of projects registered in the course of **Service Oriented Systems** (2018/
     - [https://sos1819-14.herokuapp.com/api/v1/deceaseds/docs](https://sos1819-14.herokuapp.com/api/v1/deceaseds/docs) (developed by [Antonio Pérez Solís](https://github.com/antoniops96))
     - [https://sos1819-14.herokuapp.com/api/v1/elements/docs](https://sos1819-14.herokuapp.com/api/v1/elements/docs) (developed by [Álvaro Chamorro Pascua](https://github.com/alvarocp16))
     - [https://sos1819-14.herokuapp.com/api/v1/injured-hospitalized/docs](https://sos1819-14.herokuapp.com/api/v1/injured-hospitalized/docs) (developed by [Antonio García Fernández](https://github.com/antgarfer12))
+    
+    docker run -p 8080:8080 -d antoniops96/sos1819-14
 
 
 ## SOS1819-15
